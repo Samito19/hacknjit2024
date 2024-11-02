@@ -1,0 +1,310 @@
+[
+  {
+    "PrinterID": 6813,
+    "Name": "Rajdhani",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6502,
+    "Name": "No43 - Malta",
+    "PrinterType": "Star mC-Print2",
+    "PaperWidthMM": 58.0,
+    "PrintableWidthMM": 48.0
+  },
+  {
+    "PrinterID": 6515,
+    "Name": "Koccia Kitchen",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 7013,
+    "Name": "Star printer Excel London ",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6545,
+    "Name": "Blue Shutter (Kiosk)",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6560,
+    "Name": "Blue Shutter (Gelateria)",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6789,
+    "Name": "DLA Piper Edinburgh ",
+    "PrinterType": "Star mC-Print2",
+    "PaperWidthMM": 58.0,
+    "PrintableWidthMM": 48.0
+  },
+  {
+    "PrinterID": 6635,
+    "Name": "Whitebridge Bar",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6952,
+    "Name": "Tokyo Fried Chicken Kitchen",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6951,
+    "Name": "Musqet Demo Unit",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6703,
+    "Name": "Tikka Masala Bar",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6471,
+    "Name": "EPOS LITE + demo (HDS)",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6477,
+    "Name": "Ta'Gabrejel Kitchen (Malta)",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6725,
+    "Name": "Beef buds",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6559,
+    "Name": "Pizza Hut (medcomp) Gibraltar",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6394,
+    "Name": "Woodland Grange Kitchen",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6524,
+    "Name": "Ta'Gabrejel Drinks (Malta)",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6514,
+    "Name": "Koccia Receipt",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6391,
+    "Name": "La Parilla Wholesome - Gibralta",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6791,
+    "Name": "MFSA",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6806,
+    "Name": "Que Bar (Gozo)",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6775,
+    "Name": "Post and packaging uk - kings h",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 7018,
+    "Name": "FTFC poolside kitchen",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6454,
+    "Name": "Xemxija Pitstop",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6841,
+    "Name": "Snello's Snack Bar",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6849,
+    "Name": "Big Boy takeaway",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6971,
+    "Name": "D'Vine Kitchen",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6688,
+    "Name": "EUAA",
+    "PrinterType": "Star mC-Print2",
+    "PaperWidthMM": 58.0,
+    "PrintableWidthMM": 48.0
+  },
+  {
+    "PrinterID": 6627,
+    "Name": "Bridal Malta",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6704,
+    "Name": "Tikka Masala Kitchen",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6953,
+    "Name": "Tokyo Fried Chicken Bar",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6683,
+    "Name": "Gao Bar",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6605,
+    "Name": "Heirloom Streatery",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6901,
+    "Name": "Purple Bazil",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6544,
+    "Name": "Felix Chicken (Malta)",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6684,
+    "Name": "Gao Kitchen",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6970,
+    "Name": "D'Vine Bar",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6798,
+    "Name": "KIR Royal Cafe",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6352,
+    "Name": "Adanola",
+    "PrinterType": "Star TSP100IV",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6862,
+    "Name": "Ginger and Sage",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6986,
+    "Name": "Fleetwood Town - Parkside Loung",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6689,
+    "Name": "PZ Cussons International",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6529,
+    "Name": "Scania UK HQ",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  },
+  {
+    "PrinterID": 6631,
+    "Name": "Vanilla Plus Sliema",
+    "PrinterType": "Star mC-Print3",
+    "PaperWidthMM": 80.0,
+    "PrintableWidthMM": 72.0
+  }
+]
