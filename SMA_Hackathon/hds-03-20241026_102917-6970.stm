@@ -1,0 +1,31 @@
+[align: center][image: url https://retail.epos.trustpayments.com/tmp/company/343/logo.jpg; width 30%; min-width 48mm][align: left][bold: on][mag: w 2]This is not a receipt[mag][bold: off]
+----------------------------------
+
+[mag: w 1]
+
+ 
+	VAT Due: % 0 EUR
+	  >> 2.00 EUR
+				----------------------------------
+				cake 
+	VAT Due: % 0 EUR
+	  >> 2.00 EUR
+				----------------------------------
+				Espresso 
+	VAT Due: 18.00% 0.31 EUR
+	  >> 2.00 EUR
+				----------------------------------
+				[bold: on][mag: w 1]Running Total: 6.00 EUR[mag][bold: off]
+	
+	[bold: on][mag: w 1]Total amount: 6.00 EUR
+	VAT amount: 0.31 EUR[mag][bold: off]
+	
+	--------------------------------
+	
+	[bold: on]Summary of VAT[bold: off]
+	
+	% - 0.00 EUR
+		18.00% - 0.31 EUR
+		
+
+[mag][feed][cut]

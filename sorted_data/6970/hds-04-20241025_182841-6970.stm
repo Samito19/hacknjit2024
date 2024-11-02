@@ -1,0 +1,39 @@
+[align: center][image: url https://retail.epos.trustpayments.com/tmp/company/343/logo.jpg; width 30%; min-width 48mm][align: left][bold: on][mag: w 2]This is not a receipt[mag][bold: off]
+----------------------------------
+
+[mag: w 1]
+
+Coffee 
+	VAT Due: 18.00% 0.34 EUR
+	  >> 2.25 EUR
+				----------------------------------
+				Pepsi 
+	VAT Due: 0.00% 0 EUR
+	  >> 2.00 EUR
+				----------------------------------
+				BCRS 
+	VAT Due: 0.00% 0 EUR
+	  >> 0.10 EUR
+				----------------------------------
+				Pepsi 
+	VAT Due: 0.00% 0 EUR
+	  >> 2.00 EUR
+				----------------------------------
+				BCRS 
+	VAT Due: 0.00% 0 EUR
+	  >> 0.10 EUR
+				----------------------------------
+				[bold: on][mag: w 1]Running Total: 6.45 EUR[mag][bold: off]
+	
+	[bold: on][mag: w 1]Total amount: 6.45 EUR
+	VAT amount: 0.34 EUR[mag][bold: off]
+	
+	--------------------------------
+	
+	[bold: on]Summary of VAT[bold: off]
+	
+	0.00% - 0.00 EUR
+		18.00% - 0.34 EUR
+		
+
+[mag][feed][cut]
