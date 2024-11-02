@@ -1,0 +1,7 @@
+services:
+  python_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "2000:2000"
