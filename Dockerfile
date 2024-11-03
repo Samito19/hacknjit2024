@@ -1,6 +1,13 @@
-FROM python:3.9
+FROM python:3.10-slim-bullseye
+
+WORKDIR /app
+
+RUN apt upgrade
+RUN apt install portaudio19-dev
+COPY requirements.txt requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
-RUN pip install streamlit pandas
 
-CMD ["python3", "main.py"]
+CMD ["python3", "ai.py"]
+
